@@ -1,9 +1,13 @@
 {
-    "name": "remote-presentation-controller"
-  , "version": "0.0.1"
-  , "dependencies": {
-      "express": "2.5.8"
-    , "ejs": ">= 0.0.1"
-    , "socket.io" : ">= 0.9.6"
+  "name": "remote-presentation-controller",
+  "version": "0.0.1", 
+  "dependencies": {
+    "express": "2.5.8", 
+    "ejs": ">= 0.0.1", 
+    "socket.io" : ">= 0.9.6"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
   }
 }
