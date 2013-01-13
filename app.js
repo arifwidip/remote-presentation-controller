@@ -27,7 +27,7 @@ io.configure(function () {
   
   io.set('transports', [
       'websocket'
-    , 'flashsocket'
+    // , 'flashsocket'
     , 'htmlfile'
     , 'xhr-polling'
     , 'jsonp-polling'
